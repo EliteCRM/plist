@@ -1,0 +1,8 @@
+{
+  "code":1,
+  "message":"SUCCESS",
+  "value":{
+    "iosVersion": 2,
+    "iosDownloadURL":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/EliteCRM/plist/master/scc/prod/ngsrn.plist"
+  }
+}
