@@ -2,8 +2,8 @@
   "code":1,
   "message":"SUCCESS",
   "value":{
-    "androidVersion": 5,
-    "iosVersion": 5,
+    "androidVersion": 6,
+    "iosVersion": 6,
     "androidDownloadURL":"http://47.103.65.190:8080/ngs/app_release/ngsrn_scc.apk",
     "iosDownloadURL":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/EliteCRM/plist/master/scc/dev/ngsrn.plist"
   }
